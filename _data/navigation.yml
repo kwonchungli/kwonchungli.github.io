@@ -3,11 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/

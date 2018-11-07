@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV.pdf](files/CV_JeongyeolKwon.pdf)
+
 Education
 ======
 * Ph.D in The University of Texas at Austin, 2017 ~ Present
