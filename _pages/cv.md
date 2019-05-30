@@ -16,6 +16,7 @@ Education
 * Ph.D in The University of Texas at Austin, 2017 ~ Present
 * B.S. in Korea, Seoul National University, 2008 ~ 2016
 
+
 Research experience
 ======
 * Decision, Information, and Communications Engineering (DICE), The University of Texas at Austin
@@ -23,6 +24,7 @@ Research experience
 
 * Perceptron and Intelligence Laboratory (PIL), Seoul National University
   * Research Internship (with Prof. Jin Young Choi) 
+
 
 Work experience
 ======
@@ -43,7 +45,7 @@ Publications
 
 Skills
 ======
-* Programming Language: C/C++, Python, JAVA  
-* Language: English, Japanese, Korean
-
+* Computer Skills: C/C++, Python, MATLAB, LaTeX
+* Specialty: Algorithm/Data Structure, Learning Theory, Optimization
+* Language: English, Japanese
   
