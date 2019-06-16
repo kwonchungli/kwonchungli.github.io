@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV.pdf](files/CV_JeongyeolKwon.pdf)
+[CV.pdf](../files/CV_JeongyeolKwon.pdf)
 
 Education
 ======
