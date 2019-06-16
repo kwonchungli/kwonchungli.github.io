@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base path %}
+{% include base_path %}
 
 [CV.pdf](files/CV_JeongyeolKwon.pdf)
 
