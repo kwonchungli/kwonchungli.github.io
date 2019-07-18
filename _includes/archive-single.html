@@ -40,7 +40,7 @@
         {% endif %}
     
     {% if post.authors and post.paperurl %}
-      {{ post.authors }} <br> {{ post.publisher }} <br> <font size="10"> <a href="{{ post.paperurl }}">  archive:<u>{{ post.paperurl }}</u></a></font>
+      {{ post.authors }} <br> {{ post.publisher }} <br> <font size="3"> <a href="{{ post.paperurl }}">  archive:<u>{{ post.paperurl }}</u></a></font>
     {% elsif post.authors %}
       {{ post.authors }} <br> {{ post.publisher }}
     {% elsif post.paperurl %}
