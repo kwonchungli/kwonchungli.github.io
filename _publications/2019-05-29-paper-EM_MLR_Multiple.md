@@ -5,7 +5,7 @@ permalink: local_em_mlr
 excerpt: 
 date: 2019-05-29
 paperurl: 'https://arxiv.org/abs/1905.12106'
-citation: hello
+citation: 
 authors: <b>J. Kwon</b> and C. Caramanis 
 publisher: Preprint, under review
 ---
