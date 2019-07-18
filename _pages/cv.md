@@ -47,5 +47,5 @@ Skills
 ======
 * Computer Skills: C/C++, Python, MATLAB, LaTeX
 * Specialty: Algorithm/Data Structure, Learning Theory, Optimization
-* Language: English, Japanese
+* Language: Korean (Native), English, Japanese
   
