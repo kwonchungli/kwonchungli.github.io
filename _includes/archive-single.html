@@ -40,9 +40,9 @@
         {% endif %}
     
     {% if post.citation and post.paperurl %}
-      {{ post.citation }} <a href="{{ post.paperurl }}"> <u>{{ post.paperurl }}</u></a>
+      {{ post.authors }} <br> {{ post.publisher }} <a href="{{ post.paperurl }}"> <br><u>{{ post.paperurl }}</u></a>
     {% elsif post.citation %}
-      {{ post.citation }}
+      {{ post.authors }} <br> {{ post.publisher }}
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
