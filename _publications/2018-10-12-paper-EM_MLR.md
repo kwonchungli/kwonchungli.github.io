@@ -4,7 +4,6 @@ collection: arXiv
 permalink: global_em_mlr
 excerpt: 
 date: 2018-10-12
-venue: 'Archive'
 paperurl: 'https://arxiv.org/abs/1810.05752'
 citation: hello
 authors: <b>J. Kwon</b>, W. Qian, C. Caramanis, Y. Chen, and D. Damek 
