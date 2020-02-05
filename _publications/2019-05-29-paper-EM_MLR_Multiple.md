@@ -10,6 +10,6 @@ authors: <b>J. Kwon</b> and C. Caramanis
 publisher: Proceedings of the 23rd  International Conference on Artificial Intelligence and Statistics (AISTATS) 2020
 ---
 
-We prove that EM algorithm converges locally in general(but with statistical and separation assumption) mixture of linear regressions with more than two components. Our result shows the statistical error does not scales with the norm of parameters, thus exact recovery is guaranteed as noise power goes to zero. 
+We study the convergence of the Expectation-Maximization (EM) algorithm for mixtures of linear regressions with an arbitrary number k≥3 of components. We show that as long as signal-to-noise ratio (SNR) is Ω(k), well-initialized EM converges to the true regression parameters. Our finite-sample analysis implies the exact recovery as σ→0, in contrast to most previous local convergence results for EM. 
 
 [Link to Archive](https://arxiv.org/abs/1905.12106)

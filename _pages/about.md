@@ -14,6 +14,6 @@ Before moving to Austin, I got a Bachelor's Degree at Electrical Engineering dep
 
 Research Interests
 ======
-My research interest is in theoretical aspect of machine/statistical learning and optimization. I am working on learning theory for mixture models with specialty in the EM algorithm. 
+My research interest is in a theoretical aspect of machine/statistical learning and optimization. I am working on learning theory for mixture models with specialty in the EM algorithm. 
 
 I am also planning to have a reading group to study the Reinforcement Learning with a focus on the learning-theoretical perspective. 

@@ -10,6 +10,7 @@ authors: <b>J. Kwon</b>, W. Qian, C. Caramanis, Y. Chen, and D. Damek
 publisher: Proceedings of the 32nd Annual Conference on Learning Theory (COLT) 2019
 ---
 
-We study Expectation-Maximization (EM) Algorithm for mixtures of balanced two component linear regressions. While previous results were established on local convergence in high SNR regime, we guarantee global convergence in both high and low SNR regime. 
+The Expectation-Maximization algorithm is perhaps the most broadly used algorithm for inference of latent variable problems. A theoretical understanding of its performance, however, largely remains lacking. Recent results established that EM enjoys global convergence for Gaussian Mixture Models. For Mixed Linear Regression, however, only local convergence results have been established, and those only for the high SNR regime. We show here that EM converges for mixed linear regression with two components, and moreover that this convergence holds for random initialization. 
+
 
 [Link to Archive](https://arxiv.org/abs/1810.05752)
