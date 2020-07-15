@@ -6,6 +6,7 @@ excerpt:
 date: 2020-02-03
 paperurl: 'https://arxiv.org/abs/2002.00329'
 paperconf: 'http://proceedings.mlr.press/v125/kwon20a.html'
+video: 'https://www.colt2020.org/virtual/papers/paper_177.html'
 citation: 
 authors: <b>J. Kwon</b> and C. Caramanis
 publisher: Proceedings of the 33rd Annual Conference on Learning Theory (COLT) 2020
