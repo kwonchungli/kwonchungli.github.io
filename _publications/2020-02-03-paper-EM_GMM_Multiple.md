@@ -12,4 +12,4 @@ publisher: Working Paper
 
 The Expectation-Maximization (EM) Algorithm is one of the most popular choice of methods for learning a mixture of Gaussians. In the special case of spherical Gaussian mixtures, we show that EM converges locally to the true parameters under mild initialization and separation conditions. The separation condition we require is \sqrt(\log k), matching the lower bound for polynomial identifiability (Regev and Vijayaraghavan, 2017). Our result guarantees that the statistical error of EM is minimax optimal. We connect this result to the first optimal sample upper bound for the parameter estimation of well-separated Gaussian mixtures.
 
-[Link to Archive](https://arxiv.org/abs/2002.00329)
+[[Arxiv]](https://arxiv.org/abs/2002.00329) [[Conference]](http://proceedings.mlr.press/v125/kwon20a.html) [[Video]](https://www.colt2020.org/virtual/papers/paper_177.html) 
