@@ -40,16 +40,16 @@
         {% endif %}
     
     {% if post.authors and post.paperurl %}
-      <font size="3"> {{ post.authors }} <br> {{ post.publisher }} <br> <\font>
-      {% if post.paperconf %} <font size="3"> <a href="{{post.paperurl}}">  <u>[Arxiv]</u> </a> 
-      <a href="{{ post.paperconf }}">  <u>[Conferece]</u></a> </font> 
-      {% else %} <font size="3"> <a href="{{ post.paperurl }}">  <u>[Arxiv]</u></a> </font> 
-      {% endif %}
+		<font size="3"> {{ post.authors }} <br> {{ post.publisher }} <br>
+		{% if post.paperconf %} <a href="{{post.paperurl}}">  <u>[Arxiv]</u> </a> 
+		<a href="{{ post.paperconf }}">  <u>[Conferece]</u></a>
+		{% else %} <a href="{{ post.paperurl }}">  <u>[Arxiv]</u></a> 
+		{% endif %}
+		</font>
     {% elsif post.authors %}
       {{ post.authors }} <br> {{ post.publisher }}
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
-
   </article>
 </div>
