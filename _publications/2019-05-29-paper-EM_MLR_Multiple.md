@@ -5,6 +5,7 @@ permalink: local_em_mlr
 excerpt: 
 date: 2019-05-29
 paperurl: 'https://arxiv.org/abs/1905.12106'
+paperconf: 'http://proceedings.mlr.press/v108/kwon20a.html'
 citation: 
 authors: <b>J. Kwon</b> and C. Caramanis 
 publisher: Proceedings of the 23rd  International Conference on Artificial Intelligence and Statistics (AISTATS) 2020

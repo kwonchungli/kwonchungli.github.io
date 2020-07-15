@@ -32,7 +32,7 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h3>
     
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -40,7 +40,10 @@
         {% endif %}
     
     {% if post.authors and post.paperurl %}
-      {{ post.authors }} <br> {{ post.publisher }} <br> <font size="2"> archive: <a href="{{ post.paperurl }}">  <u>{{ post.paperurl }}</u></a></font>
+      {{ post.authors }} <br> {{ post.publisher }} <br> 
+      {% if post.paperconf %} <font size="2"> <a href="[Arxiv]">  <u>{{ post.paperurl }}</u></a> <a href="[Conference]">  <u>{{ post.paperconf }}</u></a> </font> 
+      {% else %} <font size="2"> <a href="[Arxiv]">  <u>{{ post.paperurl }}</u></a> </font> 
+      {% endif %}
     {% elsif post.authors %}
       {{ post.authors }} <br> {{ post.publisher }}
     {% elsif post.paperurl %}

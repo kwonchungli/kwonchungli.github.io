@@ -13,4 +13,4 @@ publisher: Working paper; under review
 Recent years have witnessed a remarkable progress in our understanding on the EM algorithm. For Two-Component Mixed Linear Regression, we give a complete characterization of the EM algorithm under all SNR regimes. Remarkablely, EM acheives the minimax optimality under all SNR regimes within finite number of iterations from either a random or efficiently computable local inizialition. This not only resolves an open issue in my first work on the global convergence of EM, but several other open issues in recent work by other teams. We adopt several new techniques developed in recent years to fill the remaining gap in the literature. 
 
 
-[Link to Archive](https://arxiv.org/abs/2006.02601)
+[[Arxiv]](https://arxiv.org/abs/2006.02601)
