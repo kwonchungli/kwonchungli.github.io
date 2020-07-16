@@ -6,7 +6,7 @@ excerpt:
 date: 2018-10-12
 paperurl: 'https://arxiv.org/abs/1810.05752'
 paperconf: 'http://proceedings.mlr.press/v99/kwon19a.html'
-video: ''
+video: 'https://www.youtube.com/watch?v=gpudDto77OE'
 citation: 
 authors: <b>J. Kwon</b>, W. Qian, C. Caramanis, Y. Chen, and D. Damek 
 publisher: Proceedings of the 32nd Annual Conference on Learning Theory (COLT) 2019
