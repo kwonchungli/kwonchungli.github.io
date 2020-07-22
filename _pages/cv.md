@@ -28,6 +28,10 @@ Research experience
 
 Work experience
 ======
+* Alegion Inc., 2019.6 ~ 2019.8
+	* Research Internship
+	* Research on the automation of human annotation
+
 * Scientific Analog, 2015.5 ~ 2016.6
 	* Research and Development Engineer
 	* Program Developer for Mixed Circuit Simulator  
