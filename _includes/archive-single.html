@@ -31,8 +31,9 @@
 
         {% endif %}
     
+	<font size="3">
     {% if post.authors and post.paperurl %}
-		<font size="3"> {{ post.authors }}, "{{ title }}," {{ post.publisher }}
+		{{ post.authors }}, "{{ title }}," {{ post.publisher }}
 	{% endif}
 	
 	{% if post.paperconf %} 
