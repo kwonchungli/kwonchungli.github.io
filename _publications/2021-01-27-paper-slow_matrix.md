@@ -1,5 +1,5 @@
 ---
-title: "On the computational and statistical complexity of over-parameterized matrix sensing"
+title: "On the Computational and Statistical Complexity of Over-Parameterized Matrix Sensing"
 collection: arXiv
 permalink: slow_matrix
 excerpt: 
