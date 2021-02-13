@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a 4th year Ph.D. candidate in the ECE department of The University of Texas at Austin. I am very fortuate to pursue my Ph.D. degree under the supervision of [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). 
+Hello, I am a 4th year Ph.D. candidate in the ECE department of The University of Texas at Austin. I am very fortunate to pursue my Ph.D. degree under the supervision of [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). 
 
 Before moving to Austin, I got a Bachelor's Degree at Electrical Engineering department, Seoul National University (SNU), Korea, in 2016. 
 
