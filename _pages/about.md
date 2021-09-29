@@ -16,7 +16,7 @@ Before moving to Austin, I got a Bachelor's Degree at Electrical Engineering dep
 
 Research Interest
 ======
-My research interest lies in theoretical aspects of machine/statistical learning and optimization. My Ph.D. research has focused on latent-variable problems -- how to learn from data with missing or unobserved information. I have specifically focused on the design and analysis of practically useful algorithms for them. My past project has been dedicated to the theoretical understanding of why and when simple heuristics like EM succeeds. I am also interested in algorithmic approaches such as moment-based approaches and in particular sum-of-squares proofs. 
+My research interest lies in theoretical aspects of machine/statistical learning and optimization. My Ph.D. research has focused on latent-variable problems -- how to learn from data with missing or unobserved information. I have specifically focused on the design and analysis of practically useful algorithms for them. My past project has been dedicated to the theoretical understanding of why and when simple heuristics like EM succeeds. I am also interested in algorithmic approaches such as moment-based approaches and sum-of-squares proofs. 
 
 Currently, I am working on the theoretical aspect of Reinforcement Learning. In Spring 2020, I lead a student-oriented reading group on theory of reinforcement learning. In connection to my previous work on EM, I am specifically looking at problems with partial observability. While I am a bit biased to the theory side, I am also looking for an opportunity to working on real-world RL applications where my theoretical discoveries could be useful. 
 
