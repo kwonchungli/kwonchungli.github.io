@@ -41,17 +41,15 @@
     
     {% if post.authors and post.paperurl %}
 		<font size="3"> {{ post.authors }} <br> {{ post.publisher }} <br>
+		<a href="{{post.paperurl}}">  <u>[Arxiv]</u> </a> 
 		{% if post.paperconf %} 
-			{% if post.video %}
-				<a href="{{post.paperurl}}">  <u>[Arxiv]</u> </a> 
-				<a href="{{ post.paperconf }}">  <u>[Conference]</u></a>
-				<a href="{{ post.video }}">  <u>[Video]</u></a>
-			{% else %} 
-				<a href="{{post.paperurl}}">  <u>[Arxiv]</u> </a> 
-				<a href="{{ post.paperconf }}">  <u>[Conference]</u></a>
-			{% endif %}
-		{% else %} 
-			<a href="{{ post.paperurl }}">  <u>[Arxiv]</u></a> 
+			<a href="{{ post.paperconf }}">  <u>[Conference]</u></a> 
+		{% endif %}
+		{% if post.video %}				
+			<a href="{{ post.video }}">  <u>[Video]</u></a>
+		{% endif %}
+		{% if post.special1 %}
+			<a href="{{ post.special1 }}"> <u>[{{ post.special1_title }}]</u></a>
 		{% endif %}
 		</font>
     {% elsif post.authors %}

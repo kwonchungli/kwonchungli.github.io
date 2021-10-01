@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeongyeol Kwon"
 title_separator          : "-"
 name                     : &name "Jeongyeol Kwon"
-description              : &description "PhD in UT"
+description              : &description "PhD Candidate in UT"
 url                      : https://kwonchungli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kwonchungli/kwonchungli.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "leight" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -86,7 +86,7 @@ author:
   location         : "Austin"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QlFWnXgAAAAJ&hl=en"
-  email            :
+  email            : "kwonchungli@utexas.edu"
   uri              :
   bitbucket        :
   codepen          :

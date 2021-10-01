@@ -5,6 +5,8 @@ permalink: latent_mdp
 excerpt: 
 date: 2021-02-10
 paperurl: 'https://arxiv.org/abs/2102.04939'
+special1: 'https://www.youtube.com/watch?v=6ivee0oAFvI'
+special1_title: 'RL Theory Seminar'
 citation: 
 authors: <b>J. Kwon</b>, Y. Efroni, C. Caramanis and S. Mannor
 publisher: Proceedings of the 35th Neural Information Processing Systems (NeurIPS) 2021 (Spotlight)
