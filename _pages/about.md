@@ -28,8 +28,6 @@ News
 ======
 - I am looking for a postdoctoral position.
 
--  
-
 - (9/28/21) Two Papers accepted at NeurIPS 2021!
 
 - (8/21/21) I got married with Siwan!
