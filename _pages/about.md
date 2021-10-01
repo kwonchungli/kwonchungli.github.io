@@ -26,13 +26,19 @@ Currently, I am working on the theoretical aspect of Reinforcement Learning. In 
  
 News
 ======
-- (9/28/21) Two Papers got Accepted at NeurIPS 2021!
+- I am looking for a postdoctoral position.
+
+-  
+
+- (9/28/21) Two Papers accepted at NeurIPS 2021!
 
 - (8/21/21) I got married with Siwan!
 
 - (5/18/21) Presented my work on Latent MDPs at virtual RL Theory Seminar.
 
-- (1/15/21) Done with my proposal, and now become a Ph.D. candidate.   
+- (3/3/21) I received a UT graduate continuing fellowship for the 2021-2022 academic year. 
+
+- (1/15/21) Done with my proposal, and now become a Ph.D. candidate.
 
 
 Some Personal Life
