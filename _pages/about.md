@@ -26,8 +26,13 @@ Currently, I am working on the theoretical aspect of Reinforcement Learning. In 
  
 News
 ======
-- Preparing...
+- (9/28/21) Two Papers got Accepted at NeurIPS 2021!
 
+- (8/21/21) I got married with Siwan!
+
+- (5/18/21) Presented my work on Latent MDPs at virtual RL Theory Seminar.
+
+- (1/15/21) Done with my proposal, and now become a Ph.D. candidate.   
 
 
 Some Personal Life
