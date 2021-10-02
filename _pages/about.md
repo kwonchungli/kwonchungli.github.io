@@ -28,9 +28,9 @@ News
 ======
 - I am looking for a postdoctoral position.
 
-- (9/28/21) Two Papers accepted at NeurIPS 2021!
+- (9/28/21) Two papers accepted at NeurIPS 2021!
 
-- (8/21/21) I got married with the most beautiful lady Siwan!
+- (8/21/21) I got married with the most beautiful lady Siwan!!
 
 - (5/18/21) Presented my work on Latent MDPs at virtual RL Theory Seminar.
 
