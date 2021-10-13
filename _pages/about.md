@@ -18,7 +18,7 @@ Research Interest
 ======
 My research interest lies in theoretical aspects of machine/statistical learning and optimization. My Ph.D. research has focused on latent-variable problems -- how to learn from data with missing or unobserved information. I have specifically focused on the design and analysis of practically useful algorithms for them. 
 
-Currently, I mostly focusing on the Reinforcement Learning. In connection to my previous work on EM, I am specifically looking at problems with partial observability. While I am a bit biased to the theory side, I am also looking for an opportunity to working on real-world RL applications where my theoretical discoveries could be useful. 
+Currently, I am mostly focusing on Reinforcement Learning. In connection to my previous work on EM, I am specifically looking at problems with partial observability. While I am a bit biased to the theory side, I am also looking for an opportunity to working on applications where my theoretical discoveries could be useful. 
 
 
 
