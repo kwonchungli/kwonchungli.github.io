@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeongyeol Kwon"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
