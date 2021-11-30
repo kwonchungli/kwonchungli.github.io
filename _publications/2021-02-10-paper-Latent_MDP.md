@@ -5,6 +5,7 @@ permalink: latent_mdp
 excerpt: 
 date: 2021-02-10
 paperurl: 'https://arxiv.org/abs/2102.04939'
+paperconf: 'https://papers.nips.cc/paper/2021/hash/cd755a6c6b699f3262bcc2aa46ab507e-Abstract.html'
 special1: 'https://www.youtube.com/watch?v=6ivee0oAFvI'
 special1_title: 'RL Theory Seminar'
 citation: 

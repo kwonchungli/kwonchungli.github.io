@@ -5,6 +5,7 @@ permalink: rm_mdp
 excerpt: 
 date: 2021-09-28
 paperurl: 'https://arxiv.org/abs/2110.03743'
+paperconf: 'https://papers.nips.cc/paper/2021/hash/11f9e78e4899a78dedd439fc583b6693-Abstract.html'
 citation: 
 authors: <b>J. Kwon</b>, Y. Efroni, C. Caramanis and S. Mannor
 publisher: Proceedings of the 35th Neural Information Processing Systems (NeurIPS) 2021
