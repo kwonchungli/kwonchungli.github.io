@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D in The University of Texas at Austin, 2017 ~ Present
-* B.S. in Korea, Seoul National University, 2016
+* B.S. in Korea, Seoul National University *(summa cum laude)*, 2016
 
 
 Research experience
