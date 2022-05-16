@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a 5th year Ph.D. candidate in the ECE department of The University of Texas at Austin. I am very fortunate to work with my supervisor [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html) for my Ph.D. 
+Hi, I am a final year Ph.D. candidate in the ECE department of the University of Texas at Austin. I have had wonderful years of learning and working with my advisor [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). 
 
 Before moving to Austin, I got a Bachelor's Degree at Electrical Engineering department, Seoul National University (SNU), Korea, in 2016. 
 
@@ -16,17 +16,17 @@ Before moving to Austin, I got a Bachelor's Degree at Electrical Engineering dep
 
 Research Interest
 ======
-My research interest lies in theoretical aspects of machine/statistical learning and optimization. My Ph.D. research has focused on latent-variable problems -- how to learn from data with missing or unobserved information. I have specifically focused on the design and analysis of practically useful algorithms for them. 
-
-Currently, I am mostly focusing on Reinforcement Learning. In connection to my previous work on EM, I am specifically looking at problems with partial observability. While I am a bit biased to the theory side, I am also looking for an opportunity to working on applications where my theoretical discoveries could be useful. 
-
-
+I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions that are well motivated by real applications. Specifically, I have been focused on theoretical questions arising from statistical inference of latent variable models, and reinforcement learning in partially observable systems. I believe in some nice connections between these two problems. I am also interested in other research topics such as robust statistics, multitask/meta learning, and stochastic approximation. 
 
 
  
 News
 ======
-- I am looking for a postdoctoral position.
+- I will be starting my Postdoc at the University of Wisconsin-Madison since Fall 2022.
+
+- (5/15/22) One paper accepted at ICML 2022.
+
+- (4/15/22) Presented my work on Reward-Mixing MDPs at MLOPT Idea Seminar in Wisconsin-Madison.
 
 - (9/28/21) Two papers accepted at NeurIPS 2021!
 
@@ -39,8 +39,9 @@ News
 - (1/15/21) Done with my proposal, and now become a Ph.D. candidate.
 
 
-Some Personal Life
-======
-I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate songs to play are Chopin's Etude 25-11, Chopin's Ballade 4, and Beethoven's Piano Sonata 29 (hopefully upload recordings someday...). I am also a huge fan of rock and metal musics. My favorite bands are Skid row (in late 80s-90s), Stryper (glad that they are still active!). These days, I often listen to Game OST when I study or relax.
 
-I love to play platformer games, starting from Rockman series to recent indi-games like Freedom Planet. Before I start my PhD, I have long played Starcraft and League of Legneds throughout my life, but these games are a little too intense in terms of difficulty and competition.  
+Other aspects of life
+======
+I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate songs to play are Chopin's Etude 25-11, Chopin's Ballade 4, and Beethoven's Piano Sonata 29. I am also a huge fan of rock and metal musics. My favorite bands are Skid row (in late 80s-90s), Slipknot, Stryper (glad that they are still active!). These days, I often listen to Game OST when I study or relax.
+
+I am a fan of the game of Go, and enjoy playing it (mostly online) these days. Before I start my PhD, I have long played Starcraft and League of Legneds throughout my life, but these games require great physical which I cannot help anymore. Now I rather play more relaxing single player games -- I am also a fan of JRPG and platformer style games.
