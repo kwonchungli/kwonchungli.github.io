@@ -16,7 +16,7 @@ Before moving to Austin, I got a Bachelor's Degree at Electrical Engineering dep
 
 Research Interest
 ======
-I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions that are well motivated by real applications. Specifically, I have been focused on theoretical questions arising from statistical inference of latent variable models, and reinforcement learning in partially observable systems. I believe in some nice connections between these two problems. I am also interested in other research topics such as robust statistics, multitask/meta learning, and stochastic approximation. 
+I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions well motivated by real applications. Specifically, I have been focused on theoretical questions arising from statistical inference of latent variable models, and reinforcement learning in partially observable systems. I believe in some nice connections between these two problems. I am also interested in other research topics such as robust statistics, multitask/meta learning, and stochastic approximation. 
 
 
  
@@ -24,11 +24,11 @@ News
 ======
 - I will be starting my Postdoc at the University of Wisconsin-Madison since Fall 2022.
 
-- (5/15/22) One paper accepted at ICML 2022.
+- (5/15/22) One paper accepted to ICML 2022.
 
 - (4/15/22) Presented my work on Reward-Mixing MDPs at MLOPT Idea Seminar in Wisconsin-Madison.
 
-- (9/28/21) Two papers accepted at NeurIPS 2021!
+- (9/28/21) Two papers accepted to NeurIPS 2021!
 
 - (8/21/21) I got married with Siwan!!! <3^2
 
