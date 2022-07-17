@@ -24,6 +24,10 @@ News
 ======
 - I will be starting my Postdoc at the University of Wisconsin-Madison since Fall 2022.
 
+- (7/15/22) I gave a talk in a Beyond RL Workshop at TTIC.
+
+- (7/12/22) I successfully defended my thesis!
+
 - (5/15/22) One paper accepted to ICML 2022.
 
 - (4/15/22) Presented my work on Reward-Mixing MDPs at MLOPT Idea Seminar in Wisconsin-Madison.
