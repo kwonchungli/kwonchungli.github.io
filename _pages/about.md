@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PostDoc at Uinversity of Wisconsin-Madison, working with [Prof. Robert Nowak](https://nowak.ece.wisc.edu/). Prior to joining UW-Madison, I received my Ph.D. in ECE department at UT Austin, where I had wonderful years of learning and working with my advisor [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). I got my Bachelor's Degree in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) from Seoul National University (SNU) in 2016. 
+I am currently a PostDoc at University of Wisconsin-Madison, working with [Prof. Robert Nowak](https://nowak.ece.wisc.edu/). Prior to joining UW-Madison, I received my Ph.D. in ECE department at UT Austin, where I had wonderful years of learning and working with my advisor [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). I got my Bachelor's Degree in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) from Seoul National University (SNU) in 2016. 
 
 
 
