@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a final year Ph.D. candidate in the ECE department of the University of Texas at Austin. I have had wonderful years of learning and working with my advisor [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). 
-
-Before moving to Austin, I got a Bachelor's Degree at Electrical Engineering department, Seoul National University (SNU), Korea, in 2016. 
+I am currently a PostDoc at Uinversity of Wisconsin-Madison, working with [Prof. Robert Nowak](https://nowak.ece.wisc.edu/). Prior to joining UW-Madison, I received my Ph.D. in ECE department at UT Austin, where I had wonderful years of learning and working with my advisor [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). I got my Bachelor's Degree in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) from Seoul National University (SNU) in 2016. 
 
 
 
@@ -22,8 +20,6 @@ I am broadly interested in theoretical aspects of machine/statistical learning a
  
 News
 ======
-- I will be starting my Postdoc at the University of Wisconsin-Madison since Fall 2022.
-
 - (7/15/22) I gave a talk in a Beyond RL Workshop at TTIC.
 
 - (7/12/22) I successfully defended my thesis!
@@ -46,6 +42,6 @@ News
 
 Other aspects of life
 ======
-I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate songs to play are Chopin's Etude 25-11, Chopin's Ballade 4, and Beethoven's Piano Sonata 29. I am also a huge fan of rock and metal musics. My favorite bands are Skid row (in late 80s-90s), Slipknot, Stryper (glad that they are still active!). These days, I often listen to Game OST when I study or relax.
+I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate song to play is Chopin's Etude 25-11. I am also a huge fan of rock and metal musics. My favorite bands are Skid row (in late 80s-90s), Slipknot, Stryper (glad that they are still active!). These days, I often listen to Game OST when I study or relax. 
 
-I am a fan of the game of Go, and enjoy playing it (mostly online) these days. Before I start my PhD, I have long played Starcraft and League of Legneds throughout my life, but these games require great physical which I cannot help anymore. Now I rather play more relaxing single player games -- I am also a fan of JRPG and platformer style games.
+I am a huge fan of the game of Go, and play it online in my free time. I became interested in playing Go since I watched the super match between Lee Sedol and Alphago, just as much as that event interested me to pursue my Ph.D. in machine learning, especially for RL. 
