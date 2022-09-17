@@ -13,12 +13,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in The University of Texas at Austin, 2017 ~ Present
+* Postdoctorate in University of Wisconsin at Madison, 2022 ~ Present
+* Ph.D in The University of Texas at Austin, 2017 ~ 2022
 * B.S. in Korea, Seoul National University *(summa cum laude)*, 2016
 
 
 Research experience
 ======
+* Wisconsin Institute for Discovery, University of Wisconsin-Madison
+	* Postdoctorate (with Prof. Robert Nowak)  
+
 * Decision, Information, and Communications Engineering (DICE), The University of Texas at Austin
 	* Graduate Research Assistant (with Prof. Constantine Caramanis)  
 
@@ -50,6 +54,6 @@ Publications
 Skills
 ======
 * Computer Skills: C/C++, Python, MATLAB, LaTeX
-* Specialty: Algorithm/Data Structure, Learning Theory, Optimization
+* Specialty: Learning Theory, Reinforcement Learning, Optimization, Algorithm
 * Language: Korean (Native), English, Japanese
   
