@@ -4,7 +4,7 @@ collection: arXiv
 permalink: lmab
 excerpt: 
 date: 2022-09-14
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2210.03528'
 paperconf: ''
 citation: 
 authors: <b>J. Kwon</b>, Y. Efroni, C. Caramanis and S. Mannor
