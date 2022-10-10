@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeongyeol Kwon"
 title_separator          : "-"
 name                     : &name "Jeongyeol Kwon"
-description              : &description "PhD Candidate in UT"
+description              : &description "Ph.D. in Electrical and Computer Engineering"
 url                      : https://kwonchungli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kwonchungli/kwonchungli.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Madison"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QlFWnXgAAAAJ&hl=en"
-  email            : "kwonchungli@utexas.edu"
+  email            : "jeongyeol.kwon@wisc.edu"
   uri              :
   bitbucket        :
   codepen          :
