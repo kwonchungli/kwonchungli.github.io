@@ -1,5 +1,5 @@
 ---
-title: "Reward-Mixing MDPs with a Few Latent Contexts are Learnable"
+title: "Reward-Mixing MDPs with Few Latent Contexts are Learnable"
 collection: arXiv
 permalink: rmmdp_general
 excerpt: 

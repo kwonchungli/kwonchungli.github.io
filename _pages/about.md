@@ -30,8 +30,6 @@ News
 
 - (9/28/21) Two papers accepted to NeurIPS 2021!
 
-- (8/21/21) I got married with Siwan!!! <3^2
-
 - (5/18/21) Presented my work on Latent MDPs at virtual RL Theory Seminar.
 
 - (3/3/21) I received a UT graduate continuing fellowship for the 2021-2022 academic year. 
