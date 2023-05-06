@@ -14,12 +14,18 @@ I am currently a PostDoc at University of Wisconsin-Madison, working with [Prof.
 
 Research Interest
 ======
-I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions well motivated by real applications. Specifically, I have been focused on theoretical questions arising from statistical inference of latent variable models, and reinforcement learning in partially observable systems. I believe in some nice connections between these two problems. I am also interested in other research topics such as robust statistics, multitask/meta learning, and stochastic approximation. 
+I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions well motivated by real applications. Specifically, I have been focused on theoretical questions arising from statistical inference of latent variable models, and reinforcement learning in partially observable systems. I believe in some nice connections between these two problems. I also work on optimization theory. Currently, I am particularly interested in developing practical algorithms for bilevel-programming, and its application to real-world examples that involve nested optimization problems. 
 
 
  
 News
 ======
+- (4/24/23) Three papers accepted to ICML 2023.
+
+- (3/09/23) I gave a talk at KAIST AI Institute.
+
+- (9/01/22) I started my postoc at UW-Madison. This place is wonderful!
+
 - (7/15/22) I gave a talk in a Beyond RL Workshop at TTIC.
 
 - (7/12/22) I successfully defended my thesis!
