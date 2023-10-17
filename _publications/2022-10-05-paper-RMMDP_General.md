@@ -5,6 +5,7 @@ permalink: rmmdp_general
 excerpt: 
 date: 2022-10-05
 paperurl: 'https://arxiv.org/abs/2210.02594'
+paperconf: 'https://proceedings.mlr.press/v202/kwon23b.html'
 citation: 
 authors: <b>J. Kwon</b>, Y. Efroni, C. Caramanis and S. Mannor
 publisher: Proceedings of the 40th International Conference on Machine Learning (ICML) 2023
