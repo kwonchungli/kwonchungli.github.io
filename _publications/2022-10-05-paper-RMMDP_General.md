@@ -15,3 +15,4 @@ We consider episodic reinforcement learning in reward-mixing Markov decision pro
 
 
 [[Arxiv]](https://arxiv.org/abs/2210.02594)
+[[Conference]](https://proceedings.mlr.press/v202/kwon23b.html)
