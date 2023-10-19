@@ -14,12 +14,14 @@ I am currently a PostDoc at University of Wisconsin-Madison, working with [Prof.
 
 Research Interest
 ======
-I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions well motivated by real applications. Specifically, I have been focused on theoretical questions arising from statistical inference of latent variable models, and reinforcement learning in partially observable systems. I believe in some nice connections between these two problems. I also work on optimization theory. Currently, I am particularly interested in developing practical algorithms for bilevel-programming, and its application to real-world examples that involve nested optimization problems. 
+I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions well motivated by real applications. I am particularly interested in real-world challenges in reinforcement learning: in particular, partial observation issues. My current effort is put on unraveling the underlying complexities inherent in learning within such environments, as well as seeking for practical algorithms to overcome such challenges. I also work on optimization theory. Currently, I explore fully first-order algorithms for bilevel optimization, and its application to reinforcement learning. 
 
 
  
 News
 ======
+- (10/17/23) I gave a talk at INFORMS Annual Meeting 2023.
+
 - (4/24/23) Three papers accepted to ICML 2023.
 
 - (3/09/23) I gave a talk at KAIST AI Institute.
