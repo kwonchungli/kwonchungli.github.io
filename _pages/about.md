@@ -13,7 +13,7 @@ I am currently a PostDoc at University of Wisconsin-Madison, working with [Prof.
 
 Research Interest
 ======
-I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions well motivated by real applications. I am particularly interested in real-world challenges in reinforcement learning: in particular, partial observation issues. My current effort is put on unraveling the underlying complexities inherent in learning within such environments, as well as seeking for practical algorithms to overcome such challenges. I also work on optimization theory. Currently, I explore fully first-order algorithms for bilevel optimization, and its application to reinforcement learning. 
+I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions well motivated by real applications. I am particularly interested in real-world challenges in reinforcement learning: in particular, partial observation issues. My current effort is put on investigating the fundamental complexities of learning within such environments, as well as seeking for practical algorithms to resolve real-world challenges. I also work on optimization theory, with a focus on developing first-order algorithms for Bilevel optimization, and their applications to reinforcement learning. 
 
 
  
