@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/abs/2309.01753'
 paperconf: '.'
 citation: 
 authors: <b>J. Kwon</b>, D. Kwon, S. Wright and R. Nowak
-publisher: International Conference on Learning Representations (ICLR) 2024 (Spotlight)
+publisher: Proceedings of the 12th International Conference on Learning Representations (ICLR) 2024 (Spotlight)
 ---
 
 We consider first-order methods for nonconvex bilevel optimization problems.
