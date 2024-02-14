@@ -20,6 +20,8 @@ I am broadly interested in theoretical aspects of machine/statistical learning a
  
 News
 ======
+- **I am currently on the academic job market!**
+
 - (10/17/23) I gave a talk at INFORMS Annual Meeting 2023.
 
 - (4/24/23) Three papers accepted to ICML 2023.
