@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PostDoc at University of Wisconsin-Madison, working with [Prof. Robert Nowak](https://nowak.ece.wisc.edu/). Prior to joining UW-Madison, I received my Ph.D. in ECE department at UT Austin, where I had wonderful years of learning and working with my advisor [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). I got my Bachelor's Degree in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) from Seoul National University (SNU) in 2016. 
+I am currently a PostDoc at University of Wisconsin-Madison, working with [Prof. Robert Nowak](https://nowak.ece.wisc.edu/). Prior to joining UW-Madison, I received my Ph.D. in ECE department at UT Austin, where I was fortunate to be advised by [Prof. Constantine Caramanis](http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Home.html). I got my Bachelor's Degree in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) from Seoul National University (SNU) in 2016. 
 
 
 
@@ -19,7 +19,8 @@ I am broadly interested in theoretical aspects of machine/statistical learning a
  
 News
 ======
-**I am currently on the academic job market!**
+
+- (03/22/24) I chaired a session on Bilevel Optimization at Informs Optimization Society Conference 2024.
 
 - (10/17/23) I gave a talk at INFORMS Annual Meeting 2023.
 
@@ -51,4 +52,4 @@ Other aspects of life
 ======
 I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate song to play is Chopin's Etude 25-11. I am also a huge fan of rock and metal musics. My favorite bands are Skid row (in late 80s-90s), Slipknot, Stryper (glad that they are still active!). These days, I often listen to Game OST when I study or relax. 
 
-I am a huge fan of the game of Go, and play it online in my free time. I became interested in playing Go since I watched the super match between Lee Sedol and Alphago, just as much as that event interested me to pursue my Ph.D. in machine learning, especially for RL. 
+I am a huge fan of the game of Go, and play it online in my free time. I became interested in playing Go since I watched the super match between Lee Sedol and Alphago, just as much as that event interested me to pursue my Ph.D. in machine learning, especially for reinforcement learning. 
