@@ -5,7 +5,6 @@ permalink: slow_matrix
 excerpt: 
 date: 2021-01-27
 paperurl: 'https://arxiv.org/abs/2102.02756'
-paperconf: '.'
 paperjour: 'https://jmlr.org/papers/v25/21-1437.html' 
 citation: 
 authors: J. Zhuo, J. Kwon, N. Ho and C. Caramanis
