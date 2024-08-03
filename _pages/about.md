@@ -18,9 +18,9 @@ I am broadly interested in theoretical aspects of machine/statistical learning a
  
 News
 ======
-- (07/26/24) I gave a talk at ISMP 2024 in Montreal. 
+- (07/26/24) I gave a talk in ISMP 2024 at Montreal. 
 
-- (06/03/24) Finally, I have proven a nearly matching upper bound for general Latent MDPs [arXiv](https://arxiv.org/abs/2406.01389)! 
+- (06/03/24) Finally, I have proven a nearly matching upper bound for general Latent MDPs! [(arXiv)](https://arxiv.org/abs/2406.01389)
 
 - (03/22/24) I chaired a session on Bilevel Optimization at Informs Optimization Society Conference 2024.
 
