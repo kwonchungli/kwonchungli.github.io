@@ -52,6 +52,6 @@ News
 
 Other aspects of life
 ======
-I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate song to play is Chopin's Etude 25-11. I am also a huge fan of rock and metal musics. These days, I often listen to Game OST when I study or relax. For the summer in Madison, I learned sailing on Mendota Lake, got my ratings for Light Zest and Tech. 
+I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate song to play is Chopin's Etude 25-11. I am also a huge fan of rock and metal musics. These days, I often listen to Game OST when I study or relax. For the summer in Madison, I learned and now enjoy sailing on Mendota Lake. 
 
 I am a huge fan of the game of Go, and play it online in my free time. I became interested in playing Go since I watched the super match between Lee Sedol and Alphago, just as much as that event interested me to pursue my Ph.D. in machine learning, especially for reinforcement learning. 
