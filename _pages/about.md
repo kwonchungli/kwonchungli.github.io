@@ -13,12 +13,14 @@ I am currently a PostDoc at University of Wisconsin-Madison, working with [Prof.
 
 Research Interest
 ======
-I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions well motivated by real applications. I am particularly interested in real-world challenges in reinforcement learning: in particular, partial observation issues. My current effort is put on investigating the fundamental complexities of learning within such environments, as well as seeking for practical algorithms to resolve real-world challenges. I also work on optimization theory, with a focus on developing first-order algorithms for Bilevel optimization, and their applications to reinforcement learning. 
-
+I am broadly interested in theoretical aspects of machine/statistical learning and optimization, with emphasis on fundamental questions that are motivated by real applications. I am particularly interested in real-world challenges in reinforcement learning. My current effort is put on investigating the fundamental complexities of learning within partially observed environments, as well as seeking for practical and implementable algorithms in such systems. I also work on optimization theory, with a focus on development and analysis of first-order algorithms for Bilevel optimization, and their applications to various machine learning problems. 
 
  
 News
 ======
+- (07/26/24) I gave a talk at ISMP 2024 in Montreal. 
+
+- (06/03/24) Finally, I have proven a nearly matching upper bound for general Latent MDPs [arXiv](https://arxiv.org/abs/2406.01389)! 
 
 - (03/22/24) I chaired a session on Bilevel Optimization at Informs Optimization Society Conference 2024.
 
@@ -50,6 +52,6 @@ News
 
 Other aspects of life
 ======
-I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate song to play is Chopin's Etude 25-11. I am also a huge fan of rock and metal musics. My favorite bands are Skid row (in late 80s-90s), Slipknot, Stryper (glad that they are still active!). These days, I often listen to Game OST when I study or relax. 
+I used to play the piano, mostly the pieces of Beethoven and Chopin. My favoriate song to play is Chopin's Etude 25-11. I am also a huge fan of rock and metal musics. These days, I often listen to Game OST when I study or relax. For the summer in Madison, I learned sailing on Mendota Lake, got my ratings for Light Zest and Tech. 
 
 I am a huge fan of the game of Go, and play it online in my free time. I became interested in playing Go since I watched the super match between Lee Sedol and Alphago, just as much as that event interested me to pursue my Ph.D. in machine learning, especially for reinforcement learning. 
