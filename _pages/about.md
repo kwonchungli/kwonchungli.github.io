@@ -20,7 +20,7 @@ News
 ======
 - (07/26/24) I gave a talk in ISMP 2024 at Montreal. 
 
-- (06/03/24) Finally, I have proven a nearly matching upper bound for general Latent MDPs! [(arXiv)](https://arxiv.org/abs/2406.01389)
+- (06/03/24) Finally, we have a nearly matching upper bound for general Latent MDPs! [(arXiv)](https://arxiv.org/abs/2406.01389)
 
 - (03/22/24) I chaired a session on Bilevel Optimization at Informs Optimization Society Conference 2024.
 
