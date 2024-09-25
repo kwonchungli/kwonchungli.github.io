@@ -7,7 +7,7 @@ date: 2024-06-04
 paperurl: 'https://arxiv.org/abs/2406.01389'
 citation: 
 authors: <b>J. Kwon</b>, S. Mannor, C. Caramanis, Y. Efroni
-publisher: Preprint
+publisher:  Proceedings of the 38th Neural Information Processing Systems (NeurIPS) 2024 (To appear)
 ---
 
 
