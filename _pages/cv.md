@@ -13,7 +13,6 @@ redirect_from:
 
 Education
 ======
-* Postdoctorate in University of Wisconsin at Madison, 2022 ~ Present
 * Ph.D in The University of Texas at Austin, 2017 ~ 2022
 * B.S. in Korea, Seoul National University *(summa cum laude)*, 2016
 
@@ -43,13 +42,6 @@ Work experience
 * Redduck, Inc., 2011.2 ~ 2013.12
   * PC Online Game Client Programmer
   
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 
 Skills
 ======
