@@ -17,6 +17,8 @@ I am broadly interested in theoretical aspects of machine/statistical learning a
 
  
 News
+**I am on the academic job market 24-25!**
+
 ======
 - (07/26/24) I gave a talk in ISMP 2024 at Montreal. 
 
