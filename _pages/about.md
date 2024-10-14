@@ -17,9 +17,10 @@ I am broadly interested in theoretical aspects of machine/statistical learning a
 
  
 News
+======
+
 **I am on the academic job market 24-25!**
 
-======
 - (07/26/24) I gave a talk in ISMP 2024 at Montreal. 
 
 - (06/03/24) Finally, we have a nearly matching upper bound for general Latent MDPs! [(arXiv)](https://arxiv.org/abs/2406.01389)
